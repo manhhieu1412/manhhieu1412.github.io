@@ -12,12 +12,12 @@
   <channel>
     <atom:link href="http://wwww.manhhieu1412.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <title>Hieu Manh</title>
-    <link>https://manhhieu1412.github.io</link>
+    <link>https://manhhieu1412.github.io/portfolio</link>
     <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
     <image>
-      <url>https://manhhieu1412.github.io/favicons/favicon-32x32.png</url>
+      <url>https://manhhieu1412.github.io/portfolio/favicons/favicon-32x32.png</url>
       <title>Hieu Manh</title>
-      <link>https://manhhieu1412.github.io</link>
+      <link>https://manhhieu1412.github.io/portfolio</link>
       <width>32</width>
       <height>32</height>
     </image>

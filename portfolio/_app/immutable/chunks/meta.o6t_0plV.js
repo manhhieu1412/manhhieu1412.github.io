@@ -1,1 +1,0 @@
-const e="https://manhhieu1412.github.io",t=["Hieu Manh","Hieu Manh","Software Development","Mobile Engineer","Data Engineer","Open Source"],i="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",s="Hieu Manh",n=`${e}/images/site-preview.png`;export{i as d,n as i,t as k,e as s,s as t};
