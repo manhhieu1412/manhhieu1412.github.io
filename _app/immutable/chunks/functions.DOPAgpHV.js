@@ -1,0 +1,1 @@
+const a=e=>{const c=Date.now()-e.getTime(),t=new Date(c);return Math.abs(t.getUTCFullYear()-1970)},s=e=>e.replace(/([^:])\/\//g,"$1/"),r=e=>(e.startsWith("http")||(e.startsWith("/cms")||(e=`/cms/${e}`),e=s(e),e.startsWith("/cms/media")||(e=e.replace("/cms/","/cms/media/")),e=s(e)),e);export{a as c,r as h};

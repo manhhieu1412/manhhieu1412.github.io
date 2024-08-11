@@ -1,0 +1,1 @@
+function r(n,u){const c={},s={},f={$$scope:1};let i=n.length;for(;i--;){const o=n[i],e=u[i];if(e){for(const t in o)t in e||(s[t]=1);for(const t in e)f[t]||(c[t]=e[t],f[t]=1);n[i]=e}else for(const t in o)f[t]=1}for(const o in s)o in c||(c[o]=void 0);return c}function a(n){return typeof n=="object"&&n!==null?n:{}}const d=/^((http|https):\/\/)/;export{d as H,a,r as g};
