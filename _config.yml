@@ -5,3 +5,4 @@ url: https://manhhieu1412.github.io  # the base hostname and protocol for your s
 baseurl: /portfolio/      # place folder name if the site is served in a subfolder
 include:
   - _app
+  - optimized-media
